@@ -9,7 +9,7 @@ Sistemul este construit in jurul microcontroller-ului **nRF52840**, care gestion
 
 Structura generala este urmatoarea:
 
-
+![alt text](image.png)
 
 
 ## 2. BOM (Bill of Materials)
